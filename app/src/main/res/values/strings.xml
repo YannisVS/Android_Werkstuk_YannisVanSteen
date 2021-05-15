@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SimonSays</string>
+    <string name="title_home">Game</string>
+    <string name="title_dashboard">Leaderboard</string>
+    <string name="title_notifications">Profile</string>
+    <string name="current_leaderbard_position">Current Leaderbard position:</string>
+    <string name="date_of_birth">Date of Birth:</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="audio">Audio</string>
+    <string name="start_game">Start Game</string>
+    <string name="level">Level:</string>
+    <string name="current_leaderboard_position">Current leaderboard position</string>
+
+
+    <string-array name="Difficulty">
+    <item>Easy</item>
+    <item>Medium</item>
+    <item>Hard</item>
+</string-array>
+</resources>
